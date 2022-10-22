@@ -16,6 +16,7 @@
 		3B6CB00528FFF2E7008648E0 /* OmikujiAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B6CB00428FFF2E7008648E0 /* OmikujiAppTests.swift */; };
 		3B6CB00F28FFF2E7008648E0 /* OmikujiAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B6CB00E28FFF2E7008648E0 /* OmikujiAppUITests.swift */; };
 		3B6CB01128FFF2E7008648E0 /* OmikujiAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B6CB01028FFF2E7008648E0 /* OmikujiAppUITestsLaunchTests.swift */; };
+		3B6CB01E2903FEA1008648E0 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B6CB01D2903FEA1008648E0 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3B6CB00A28FFF2E7008648E0 /* OmikujiAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OmikujiAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B6CB00E28FFF2E7008648E0 /* OmikujiAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OmikujiAppUITests.swift; sourceTree = "<group>"; };
 		3B6CB01028FFF2E7008648E0 /* OmikujiAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OmikujiAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3B6CB01D2903FEA1008648E0 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				3B6CAFED28FFF2E6008648E0 /* AppDelegate.swift */,
+				3B6CB01D2903FEA1008648E0 /* ResultViewController.swift */,
 				3B6CAFEF28FFF2E6008648E0 /* SceneDelegate.swift */,
 				3B6CAFF128FFF2E6008648E0 /* ViewController.swift */,
 				3B6CAFF328FFF2E6008648E0 /* Main.storyboard */,
@@ -261,6 +264,7 @@
 				3B6CAFF228FFF2E6008648E0 /* ViewController.swift in Sources */,
 				3B6CAFEE28FFF2E6008648E0 /* AppDelegate.swift in Sources */,
 				3B6CAFF028FFF2E6008648E0 /* SceneDelegate.swift in Sources */,
+				3B6CB01E2903FEA1008648E0 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
