@@ -11,11 +11,12 @@
 
 # アプリ説明
 - 画像をタップするとモーダル遷移で占い結果を表示
+ - 配列に表示画像格納しランダムで表示
 - 閉じるを押すと元の画面へ戻る
 
 ## トップ画面
 
-![omikujiTopview](https://user-images.githubusercontent.com/35165532/197337963-ebc0e3e5-d7f2-452c-bbb1-2988b1460139.png)
+![omikujiTopView](https://user-images.githubusercontent.com/35165532/197370461-6c828425-1fa8-4a26-980a-59b9f5c9487c.png)
 
 ## 結果画面
 
