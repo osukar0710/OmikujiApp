@@ -45,7 +45,6 @@ class ResultViewController: UIViewController {
 
     @IBAction func closeResultViewbutton(_ sender: Any) {
         dismiss(animated: true, completion: nil)
-        print(resultViewImage.image)
     }
     
     /*
